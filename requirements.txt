@@ -12,7 +12,7 @@ dell-recovery==0.0.0
 Django==2.2.5
 feedparser==5.1.3
 guacamole==0.9.2
-html5lib==0.999
+html5lib==0.99999999
 httplib2==0.9.1
 hupper==1.9
 idna==2.0
